@@ -27,7 +27,7 @@ We develop open and proprietary performance solutions for automotive enthusiasts
 
 - 🌐 Website: [bossgarage.eu](https://bossgarage.eu)
 - 📧 Email: loja@bossgarage.eu
-- 🛒 Store: [bossgarage.eu/shop](https://bossgarage.eu/)
+- 🛒 Store: [bossgarage.eu](https://bossgarage.eu/)
 - 🗨️ Discord Community: [Join us]([https://discord.com/invite/dHEymCZ)
 
 ---
